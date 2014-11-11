@@ -10,4 +10,7 @@ Where you should show off your front end web development skills is in your index
 Cloning and resubmitting my example app as your work is not cool
 -----------------
 
-Since this really basic rails app doesn't use a db of any kind, it's fine if you create your app with rail new your_app -0
+
+
+
+
