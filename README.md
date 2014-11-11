@@ -11,6 +11,6 @@ Cloning and resubmitting my example app as your work is not cool
 -----------------
 
 
-
+![alt text](https://raw.githubusercontent.com/kingduggan1/example_app/master/app/assets/images/ExampleApp.png "Example Image")
 
 
