@@ -20,7 +20,7 @@ I should be able to clone your app and run it in my development environment with
 - If you import the data for the columns from a db
 - If you write seed data to populate db
 - Write a test (big time bonus points for this item)
-- Actually use the bootstrap .js and show an example in one of the 3 columns.
+- Actually use the bootstrap .js and show an example in one of the 3 columns
 
 
 
